@@ -7,7 +7,7 @@ Modos:
               pulam o que já existe) e gera o boletim mafra/alteracoes/AAAA-MM-DD.md.
 
 Cada tarefa grava e envia (commit + push) só as pastas dela. O log das últimas linhas
-fica em mafra/logs/<id>.log.
+fica em mafra/logs/<id>.txt.
 """
 import argparse
 import datetime as dt
@@ -79,7 +79,7 @@ def rodar(tarefa, limite_seg, limite_itens):
                 os.killpg(proc.pid, signal.SIGKILL)
             break
     codigo = proc.wait()
-    (LOGS / f"{tarefa['id']}.log").write_text("".join(cauda), encoding="utf-8")
+    (LOGS / f"{tarefa['id']}.txt").write_text("".join(cauda), encoding="utf-8")
     return codigo, esgotou, int(time.time() - inicio)
 
 
@@ -167,7 +167,8 @@ def main():
         tarefa["arquivos_ultima_execucao"] = n
         tarefa["arquivos_acumulados"] = tarefa.get("arquivos_acumulados", 0) + n
         if args.modo == "coleta" and not args.limite:
-            if codigo == 0 and not esgotou:
+            if not esgotou and codigo in (0, 1):
+                # percorreu a fonte inteira; itens que a fonte não fornece ficam no _falhas do coletor
                 tarefa["status"] = "concluida"
             else:
                 tarefa["status"] = "em_andamento"
