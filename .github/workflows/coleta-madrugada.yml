@@ -1,0 +1,49 @@
+name: Coleta de madrugada
+
+# Todo dia às 03:00 (Brasília). Roda a fila até completar o acervo;
+# quando não houver mais tarefa pendente, termina em segundos.
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      tarefa:
+        description: "Rodar só esta tarefa (id da fila). Vazio = fila normal."
+        required: false
+        default: ""
+      limite:
+        description: "Limite de itens por coletor (teste). 0 = sem limite."
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  coleta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - name: Checkout leve
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            mafra
+            scripts
+          sparse-checkout-cone-mode: true
+
+      - name: Dependências
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils >/dev/null
+
+      - name: Executar fila
+        run: |
+          git config user.name "coleta-mafra[bot]"
+          git config user.email "coleta-mafra@users.noreply.github.com"
+          python3 mafra/executar_fila.py --modo coleta --orcamento-min 330 \
+            --tarefa "${{ github.event.inputs.tarefa }}" --limite "${{ github.event.inputs.limite || 0 }}"

@@ -1,0 +1,105 @@
+{
+  "descricao": "Fila de coleta da Mafra. Ordem definida pela carteira de clientes (Acessórias): regimes, UFs, municípios e atividades. 'onde' = actions (GitHub, de madrugada) ou mac-mini (fontes que bloqueiam acesso de fora do Brasil). 'status' = pendente | em_andamento | concluida | a_construir | bloqueada.",
+  "tarefas": [
+    {
+      "id": "rfb",
+      "nome": "Receita Federal: IN, ADI, soluções de consulta, portarias, pareceres",
+      "prioridade": 1,
+      "onde": "actions",
+      "status": "pendente",
+      "comando": "python3 -I scripts/baixar_rfb.py --rps 2 --ate {hoje}",
+      "pastas": ["reguladores/rfb"],
+      "motivo": "Todos os regimes. Acervo herdado tem ~74 mil de ~116 mil atos."
+    },
+    {
+      "id": "cgsn",
+      "nome": "Simples Nacional: LC 123 e resoluções do CGSN",
+      "prioridade": 1,
+      "onde": "actions",
+      "status": "a_construir",
+      "comando": "",
+      "pastas": ["reguladores/cgsn"],
+      "motivo": "173 clientes no Simples. Lacuna total no acervo."
+    },
+    {
+      "id": "campinas",
+      "nome": "Campinas: código tributário, ISS, decretos e instruções da Secretaria de Finanças",
+      "prioridade": 2,
+      "onde": "mac-mini",
+      "status": "a_construir",
+      "comando": "",
+      "pastas": ["municipais/sp/campinas"],
+      "motivo": "113 clientes (40% da carteira). Biblioteca Jurídica bloqueia acesso de fora do Brasil."
+    },
+    {
+      "id": "ricms-sp",
+      "nome": "ICMS-SP: RICMS, portarias CAT/SRE, decisões normativas",
+      "prioridade": 2,
+      "onde": "actions",
+      "status": "a_construir",
+      "comando": "",
+      "pastas": ["estaduais/SP/regulamentos", "estaduais/SP/portarias"],
+      "motivo": "253 clientes em SP; ST para atacado, varejo e ótica."
+    },
+    {
+      "id": "confaz",
+      "nome": "CONFAZ: convênios, protocolos e ajustes SINIEF",
+      "prioridade": 3,
+      "onde": "mac-mini",
+      "status": "a_construir",
+      "comando": "",
+      "pastas": ["reguladores/confaz"],
+      "motivo": "ST interestadual. CONFAZ e DOU bloqueiam acesso de fora do Brasil."
+    },
+    {
+      "id": "municipios-regiao",
+      "nome": "ISS da região: Valinhos, Hortolândia, Sumaré, Paulínia, Santana de Parnaíba, Vinhedo, Ribeirão Preto",
+      "prioridade": 4,
+      "onde": "actions",
+      "status": "a_construir",
+      "comando": "",
+      "pastas": ["municipais/sp"],
+      "motivo": "48 clientes somados."
+    },
+    {
+      "id": "icms-mg-ms",
+      "nome": "ICMS-MG e ICMS-MS (filiais Abecom)",
+      "prioridade": 5,
+      "onde": "actions",
+      "status": "a_construir",
+      "comando": "",
+      "pastas": ["estaduais/MG/regulamentos", "estaduais/MS/regulamentos"],
+      "motivo": "Lucro Real com IE em MG e MS."
+    },
+    {
+      "id": "federal-leis",
+      "nome": "Leis federais e leis complementares",
+      "prioridade": 6,
+      "onde": "actions",
+      "status": "concluida",
+      "comando": "python3 -I scripts/baixar_federal.py --tipos LEI,LCP --rps 3",
+      "pastas": ["federal/leis-ordinarias", "federal/leis-complementares", "federal/_indice"],
+      "motivo": "Acervo herdado já tem 99,7%. Só atualização semanal."
+    },
+    {
+      "id": "sp-leis",
+      "nome": "Leis estaduais de SP (ALESP)",
+      "prioridade": 6,
+      "onde": "actions",
+      "status": "concluida",
+      "comando": "python3 -I scripts/estados/sp.py",
+      "pastas": ["estaduais/SP"],
+      "motivo": "Acervo herdado completo. Só atualização semanal."
+    },
+    {
+      "id": "sp-capital",
+      "nome": "São Paulo capital: consolidação tributária (Decreto 65.599/2026)",
+      "prioridade": 6,
+      "onde": "actions",
+      "status": "concluida",
+      "comando": "python3 -I scripts/baixar_tributaria_sp.py",
+      "pastas": ["municipais/sp/sao-paulo"],
+      "motivo": "25 clientes na capital. Só atualização semanal."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+name: Verificação semanal
+
+# Domingo às 04:00 (Brasília). Roda de novo as tarefas concluídas (só baixa o que é novo)
+# e grava o boletim mafra/alteracoes/AAAA-MM-DD.md para os projetos de apuração.
+on:
+  schedule:
+    - cron: "0 7 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  semanal:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - name: Checkout leve
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 30
+          filter: blob:none
+          sparse-checkout: |
+            mafra
+            scripts
+          sparse-checkout-cone-mode: true
+
+      - name: Dependências
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils >/dev/null
+
+      - name: Atualizar e gerar boletim
+        run: |
+          git config user.name "coleta-mafra[bot]"
+          git config user.email "coleta-mafra@users.noreply.github.com"
+          python3 mafra/executar_fila.py --modo semanal --orcamento-min 330
