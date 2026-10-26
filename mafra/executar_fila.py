@@ -67,9 +67,20 @@ def rodar(tarefa, limite_seg, limite_itens):
                             text=True, start_new_session=True)
     cauda = []
     esgotou = False
+    ultimo_envio = time.time()
     for linha in proc.stdout:
         print(linha, end="", flush=True)
         cauda = (cauda + [linha])[-60:]
+        if time.time() - ultimo_envio > 40 * 60:
+            # grava o parcial a cada 40 min: se a execução cair, o que já foi baixado fica salvo
+            try:
+                n = enviar(tarefa["pastas"], f"Coleta {tarefa['id']} (parcial) "
+                                             f"{dt.datetime.now(FUSO):%Y-%m-%d %H:%M}")
+                tarefa["arquivos_acumulados"] = tarefa.get("arquivos_acumulados", 0) + n
+                print(f"--- parcial enviado: {n} arquivos", flush=True)
+            except Exception as exc:
+                print("--- falha ao enviar parcial:", exc, flush=True)
+            ultimo_envio = time.time()
         if time.time() - inicio > limite_seg:
             esgotou = True
             os.killpg(proc.pid, signal.SIGINT)
