@@ -1,0 +1,42 @@
+---
+titulo: "Ato Declaratório Executivo DRF/MCR nº 45, de 19 de fevereiro de 2021"
+orgao: "Delegacia da Receita Federal do Brasil em Montes Claros"
+tipo: "Ato Declaratório Executivo"
+numero: "45"
+data: "2021-02-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 26/02/2021, seção 1, página 47"
+data_publicacao: "2021-02-26"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/115550/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/115550/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "115550"
+sha256_texto: "988555c459b6672e45140a48a45d6dec036c79f2bd0bc13e4d3138d0c11bfeae"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo DRF/MCR nº 45, de 19 de fevereiro de 2021
+
+Declara, a pessoa jurídica que menciona, coabilitada para operar no Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura - REIDI, de que trata a Instrução Normativa RFB nº 1911 de 11/10/2019.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM MONTES CLAROS-MG no uso de suas atribuições que lhe são conferidas pelo artigo art. 1º e Anexo I da Portaria SRRF06 n°334 de 28/07/2020 e no art. 303 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil aprovado pela Portaria ME nº 284 de 27/07/ 2020 publicada no DOU- 30/07/ 2020, e tendo em vista o disposto nos arts.586°/587° da IN RFB nº1.911/2019-DOU de 15/10/2019 e, considerando o que consta do processo no processo n°. 10166.721074/2021-87,
+
+DECLARA:
+
+**Art. 1°** .COABILITADA a pessoa jurídica AG CONSTRUCOES E SERVICOS S/A inscrita no CNPJ n° 39.469.291/0001-05, para operar no Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (REIDI), instituído pela Lei nº 11.488/ 2007 e regulamentado pelo Decreto nº 6.144/ 2007, consoante o disposto no art. 587, da Instrução Normativa RFB nº 1.911/2019 .
+
+A coabilitação aqui concedida fica vinculada ao projeto aprovado pela a Portaria SPE-MME n°189 de 12/05/2020-DOU-14/05/2020, que aprovou a habilitação ao REIDI pelo ADE RFB-MC n°73 de 04/11/2020- DOU 05/11/2020 para projeto de geração de energia elétrica da Central Geradora Fotovoltaica denominada Janaúba 8, - CEG:UFV.RS.MG.040864-6.01, Resolução Autorizativa ANEEL nº 8.472,de 17/12/ 2019, de titularidade da empresa Solatio Energy Gestão de Projetos Solares Ltda., inscrita no CNPJ sob o nº 30.418.722/0001-21, com transferência de outorga para a empresa USINA DE ENERGIA FOTOVOLTAICA JANAUBA IX LTDA. inscrita no CNPJ n°37.381.661/0001-14,autorizada pela Aneel em 13/10/2020.
+
+A coabilitada faz parte do CONSÓRCIO SOLAR JANAÚBA,CNPJ n° 39.530.924/0001-35.
+
+Art. 1º
+
+<table>  	<col>  	<col>  	<tr>  		<td>  			<p>NOME  			DA PESSOA JURIDICA</p>  		</td>  		<td>  			<p>AG  			CONSTRUCOES E SERVICOS S/A</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>N°  			DE INSCRIÇÃO NO CNPJ</p>  		</td>  		<td>  			<p>39.469.291/0001-05</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>NOME  			DO PROJETO</p>  		</td>  		<td>  			<p>projeto  			de geração de energia elétrica da Central  			Geradora Fotovoltaica denominada Janaúba 8, -  			CEG:UFV.RS.MG.040864-6.01, Resolução  			AutorizativaANEEL nº 8.472,de 17/12/ 2019, de</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>N°  			DA PORTARIA DE APROVAÇÃO DO PROJETO</p>  		</td>  		<td>  			<p>SPE-MME  			n°189 de 12/05/2020-DOU-14/05/2020</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>N°  			DO ADE DE HABILTAÇÃO DO PROJETO</p>  		</td>  		<td>  			<p>ADE  			RFB MC n° 73 de 04/11/2020- DOU 05/11/2020</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>SETOR  			DE INFRAESTRUTURA FAVORECIDO</p>  		</td>  		<td>  			<p>ENERGIA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PRAZO  			DA OBRA PORTARIA SPDE 250/2020</p>  		</td>  		<td>  			<p>De  			01/11/2020 a 01/06/2022</p>  		</td>  	</tr>  </table>
+
+**Art. 2º** A presente habilitação poderá ser cancelada "ex officio" pela Autoridade Fiscal em caso de inobservância, por parte da beneficiária, de quaisquer dos requisitos que condicionaram a concessão do regime (Decreto nº 6.11, de 2007, art. 10, inciso II).
+
+**Art. 3º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+FILIPE ARAUJO FLORENCIO

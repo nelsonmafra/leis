@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo DRF/BEL nº 19, de 12 de junho de 2019"
+orgao: "Delegacia da Receita Federal do Brasil em Belém"
+tipo: "Ato Declaratório Executivo"
+numero: "19"
+data: "2019-06-12"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 14/06/2019, seção 1, página 24"
+data_publicacao: "2019-06-14"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/101511/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/101511/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "101511"
+sha256_texto: "ca64fae6f8768c0ee4dbe57f9656dbf15fd9d144967adf934064fd1398ddf5f1"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo DRF/BEL nº 19, de 12 de junho de 2019
+
+Declara INAPTA, por não localização, as inscrições abaixo identificadas no Cadastro Nacional da Pessoa Jurídica (CNPJ).
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM BELÉM - PA, no uso das atribuições que lhe são conferidas pela Portaria DRF/BELÉM Nº 2020, de 19/12/2018, publicada no DOU de 20/12/2018, com fundamento nos arts. 41 e 43, incisos II da Instrução Normativa RFB Nº 1.863, de 27 de dezembro de 2018, alterada pela Instrução Normativa RFB nº 1.895, de 27 de maio de 2019, e considerando ainda o apurado no processo nº 10280.720443/2014-89, declara:
+
+**Art. 1º** Declarar INAPTA, por não localização, as inscrições abaixo identificadas no Cadastro Nacional da Pessoa Jurídica - CNPJ.
+
+**Art. 2º** Serão considerados inidôneos, não produzindo efeitos tributários em favor de terceiros interessados, os documentos emitidos pelas empresas abaixo identificadas, a partir da data de publicação no Diário Oficial da União (DOU) deste Ato Declaratório Executivo.
+
+**Art. 3º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+a
+
+<table>  	<col>  	<col>  	<tr>  		<td>  			<p>INSCRIÇÃO</p>  		</td>  		<td>  			<p>RAZÃO  			SOCIAL</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>19.150.715/0001-59</p>  		</td>  		<td>  			<p>ARACY  			SEABRA BRITO JARDIM 08964297253</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>14.159.930/0001-05</p>  		</td>  		<td>  			<p>FRANCISCO  			FONTENELLE ALVES JUNIOR 61162698268</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>18.317.294/0001-45</p>  		</td>  		<td>  			<p>MICILENE  			DO SOCORRO FIGUEIREDO BENTO 77776860204</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>19.181.864/0001-85</p>  		</td>  		<td>  			<p>A.  			F. ZAPAROLE GONÇALVES - EIRELI</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>19.191.631/0001-63</p>  		</td>  		<td>  			<p>HELEN  			C. ZAPAROLLE - EIRELI</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>12.329.894/0001-47</p>  		</td>  		<td>  			<p>HEDERALDO  			JANIO SOARES COELHO 60593636287</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>15.120.705/0001-10</p>  		</td>  		<td>  			<p>DARLETE  			JESUS DO ROSARIO</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>14.737.429/0001-70</p>  		</td>  		<td>  			<p>FABIANO  			DOS SANTOS FURTADO 91702666204</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>14.544.955/0001-14</p>  		</td>  		<td>  			<p>MARAJO  			AUTOSERVIÇOS E COMERCIO LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>17.647.225/0001-37</p>  		</td>  		<td>  			<p>CLEONILSON  			BASTOS 71494596253</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>11.531.641/0001-99</p>  		</td>  		<td>  			<p>BRUNO  			AUGUSTO DA VEIGA PENA 00191354244</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>12.032154/0001-44</p>  		</td>  		<td>  			<p>H  			&amp; O MATERIAIS DE CONSTRUÇÃO LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>11.394.986/0001-48</p>  		</td>  		<td>  			<p>GERSON  			DO NASCIMENTO OLIVEIRA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>15.841.056/0001-46</p>  		</td>  		<td>  			<p>E  			S A DA SILVA SANTOS</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>05.337293/0001-10</p>  		</td>  		<td>  			<p>INDOOR  			FITNESS LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>08.619.753/0001-91</p>  		</td>  		<td>  			<p>MILTON  			B FIGUEIREDO</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>10.459.265/0002-97</p>  		</td>  		<td>  			<p>F  			O QUEIROZ PEREIRA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>12.359.472/0001-14</p>  		</td>  		<td>  			<p>JACKELINE  			LUCY DE ASSIZ GUIMARÃES 59576545234</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>12.500.253/0001-03</p>  		</td>  		<td>  			<p>J  			AMBROSIO DOS SANTOS</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>13.788.511/0001-61</p>  		</td>  		<td>  			<p>ELIZANGELA  			LIMA PACHECO 66446813287</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>14.200.016/0001-52</p>  		</td>  		<td>  			<p>REIS  			E SERRA LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>18.216.095/0001-40</p>  		</td>  		<td>  			<p>LUCIA  			DE FATIMA RODRIGUES ELERES 26472813272</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01.613.784/0001-96</p>  		</td>  		<td>  			<p>EDIENE  			BASTOS NUNES</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>03.338.429/0001-81</p>  		</td>  		<td>  			<p>'  			' DIBUFALO AGRO INDUSTRIAL LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>03.907.064/0005-92</p>  		</td>  		<td>  			<p>JAPIIM  			DISTRIBUIDORA DE BEBIDAS LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>04.055.312/0001-53</p>  		</td>  		<td>  			<p>JOÃO  			BATISTA BEZERRA GUIMARÃES</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>04.122.794/0002-06</p>  		</td>  		<td>  			<p>J.  			V. B. BRASILEIRO</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>04.701.441/0002-52</p>  		</td>  		<td>  			<p>DISTRIBUIDORA  			BRASILEIRO LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>07.056.800/0001-73</p>  		</td>  		<td>  			<p>M  			A NUNES SALVADOR</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>11.567.719/0001-25</p>  		</td>  		<td>  			<p>ALAN  			PATRIK BARROS FERREIRA 63456001215</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>12.149.924/0001-33</p>  		</td>  		<td>  			<p>DINALVA  			MARIA ALMEIDA LOUZADA 18471676249</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>12.491.227/0001-66</p>  		</td>  		<td>  			<p>H  			S DA SILVA PRODUTOS VETERINÁRIOS</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>13.204.459/0001-59</p>  		</td>  		<td>  			<p>CLEBER  			JUNIOR SARMENTO DOS SANTOS 69626472200</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>13.863.648/0001-33</p>  		</td>  		<td>  			<p>EMANUELLY  			DA SILVA MELO 00283952202</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>14.363.982/0001-90</p>  		</td>  		<td>  			<p>RAFAEL  			DA SILVA BARBOSA 86344269200</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>14.400.441/0001-95</p>  		</td>  		<td>  			<p>TEREZA  			MARIA DA CRUZ RODRIGUES 08323305234</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>15.676.346/0001-81</p>  		</td>  		<td>  			<p>JOSE  			DOS SANTOS SILVA 53708970268</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>18.860.845/0001-12</p>  		</td>  		<td>  			<p>L  			P GOMES</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>63.859.920/0001-80</p>  		</td>  		<td>  			<p>MARANATA  			PANIFICADORA E CONFEITARIA LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>83.315.465/0001-69</p>  		</td>  		<td>  			<p>CARVALHO  			E PENA LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>83.920.652/0001-71</p>  		</td>  		<td>  			<p>DENIS  			HERTZ HERCULANO DE BARROS</p>  		</td>  	</tr>  </table>
+
+LUIZ OTAVIO MARTINS RIBEIRO

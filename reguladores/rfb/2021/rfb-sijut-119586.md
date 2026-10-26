@@ -1,0 +1,40 @@
+---
+titulo: "Portaria Cosit nº 10, de 28 de julho de 2021"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Portaria"
+numero: "10"
+data: "2021-07-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 30/07/2021, seção 1, página 41"
+data_publicacao: "2021-07-30"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/119586/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/119586/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "119586"
+sha256_texto: "6e334ab651feedb4be257099b7485b924f1bbbe6cc1b6f7845f939f6e97dda62"
+baixado_em: "2026-10-26"
+---
+# Portaria Cosit nº 10, de 28 de julho de 2021
+
+Dá publicidade ao relatório de acompanhamento do 2º trimestre de 2021 referente às atividades supervisionadas pela Coordenação-Geral de Tributação, no âmbito do Programa de Gestão de que trata o § 6º do art. 6º do Decreto nº 1.590, de 10 de agosto de 1995, na modalidade de Teletrabalho.
+
+O COORDENADOR-GERAL DE TRIBUTAÇÃO, no uso da atribuição que lhe conferem os incisos I a III do art. 358 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 284, de 27 de julho de 2020, e o inciso VIII do art. 23 da Portaria RFB nº 2.383, de 13 de julho de 2017, considerando o disposto no § 6º do art. 6º do Decreto nº 1.590, de 10 de agosto de 1995, na Portaria MF nº 196, de 14 de junho de 2016, resolve:
+
+**Art. 1º** Dar publicidade ao relatório de acompanhamento do 2º trimestre de 2021, referente às atividades de formulação de atos normativos e interpretativos, julgamento de recursos hierárquicos em matéria tributária e aduaneira, elaboração de parecer em pedido de relevação de pena de perdimento e elaboração de proposta de súmula no contencioso administrativo, supervisionadas pela Coordenação-Geral de Tributação, no âmbito do Programa de Gestão de que trata o § 6º do art. 6º do Decreto nº 1.590, de 10 de agosto de 1995.
+
+**§ 1º** O relatório a que se refere o caput deste artigo conforma-se na apresentação dos resultados quanto ao alcance da meta na execução das atividades na modalidade de Teletrabalho, aferida por meio do Coeficiente de Horas Trabalhadas (CHT), na forma do Anexo Único desta Portaria.
+
+**§ 2º** Os resultados individualizados por servidor são divulgados no Boletim de Serviço da RFB.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+FERNANDO MOMBELLI
+
+ANEXO ÚNICO
+
+Anexo Único
+
+<table>  	<col>  	<col>  	<col>  	<tbody>  		<tr>  			<td>  				<p>  				1ATIVIDADES</p>  			</td>  			<td colspan="2">  				<p>  				2CHT</p>  			</td>  		</tr>  	</tbody>  	<tbody>  		<tr>  			<td>  				<p><br>   				</p>  			</td>  			<td>  				<p>  				3META</p>  			</td>  			<td>  				<p>  				4RESULTADO</p>  			</td>  		</tr>  	</tbody>  	<tbody>  		<tr>  			<td>  				<p>  				(i)  				FORMULAÇÃO DE ATOS NORMATIVOS; (ii) FORMULAÇÃO  				DE ATOS INTERPRETATIVOS; (iii) JULGAR RECURSOS HIERÁRQUICOS  				EM MATÉRIA TRIBUTÁRIA E ADUANEIRA; (iv) ELABORAÇÃO  				DE PARECER EM PEDIDO DE RELEVAÇÃO DE PENA DE  				PERDIMENTO; e (v) ELABORAÇÃO DE PROPOSTA DE SÚMULA  				NO CONTENCIOSO ADMINISTRATIVO</p>  			</td>  			<td>  				<p>  				1,00</p>  			</td>  			<td>  				<p>  				1,15</p>  			</td>  		</tr>  	</tbody>  	<tbody>  		<tr>  			<td colspan="3">  				<p>  				1  				Atividades autorizadas para execução na modalidade  				de teletrabalho, conforme anexo único da Portaria RFB nº  				390, de 21 de fevereiro de 2019.</p>  			</td>  		</tr>  		<tr>  			<td colspan="3">  				<p>  				2  				De uma forma simplificada, CHT é razão entre (i) o  				total de horas estimadas dos processos concluídos e (ii) o  				total de horas da jornada de trabalho do servidor disponíveis  				e que efetivamente foram despendidas na elaboração  				daqueles processos.</p>  			</td>  		</tr>  		<tr>  			<td colspan="3">  				<p>  				3  				A Portaria RFB nº 696, de 2020, alterado pela Portaria RFB  				nº 4586, de 21 de outubro de 2020, suspendeu a aplicação  				do adicional de produtividade previsto no § 1º do art.  				2º e no parágrafo único do art. 13, ambos da  				Portaria RFB nº 2.383, de 13 de julho de 2017, aplicando-se,  				assim, como parâmetro de referência, a meta unitária  				(CHT=&gt; 1,00).</p>  			</td>  		</tr>  		<tr>  			<td colspan="3">  				<p>  				4  				Consideram-se "resultados da tributação os  				alcançados pelos teletrabalhistas da Cosit e das Disits.</p>  			</td>  		</tr>  	</tbody>  </table>

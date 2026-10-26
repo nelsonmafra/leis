@@ -1,0 +1,56 @@
+---
+titulo: "Ato Declaratório Executivo SRRF07 nº 2, de 23 de fevereiro de 2021"
+orgao: "Superintendência Regional da Receita Federal do Brasil 7ª Região Fiscal"
+tipo: "Ato Declaratório Executivo"
+numero: "2"
+data: "2021-02-23"
+revogada: true
+evidencia_revogacao: "[Revogado(a) pelo(a) Ato Declaratório Executivo SRRF07 nº 14, de 22 de setembro de 2026]"
+vigente_fonte: false
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 02/03/2021, seção 1, página 32"
+data_publicacao: "2021-03-02"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/115647/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/115647/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "115647"
+sha256_texto: "2a2bc5ddd35a8a8c0ec8eccc7a5e7397e130f364357dbb22104509e5d6c6d09b"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo SRRF07 nº 2, de 23 de fevereiro de 2021
+
+Concede Regime Especial de Substituição Tributária do Imposto sobre Produtos Industrializados (IPI).
+
+O SUPERINTENDENTE DA RECEITA FEDERAL DO BRASIL NA 7ª REGIÃO FISCAL, no uso da competência conferida pelo artigo 359, inciso I, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 284, de 27 de julho de 2020 c/c o artigo 3º da Instrução Normativa RFB nº 1.081, de 04 de novembro de 2010 e, tendo em vista o que consta do processo n°13746.720332/2019-51, declara que:
+
+**Art. 1º** Fica concedido o Regime Especial de Substituição Tributária do Imposto sobre Produtos Industrializados (IPI) de que trata a Instrução Normativa RFB nº 1.081, de 04 de novembro de 2010, pleiteado no processo administrativo-fiscal nº 13746.720332/2019-51, ao estabelecimento da empresa LORENPET INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA., inscrito no CNPJ sob o nº 00.455.985/0001-40, indicado na condição de substituto, relativamente às aquisições, junto ao estabelecimento da CPR INDÚSTRIA E COMÉRCIO DE PLÁSTICO LTDA., inscrito no CNPJ sob o nº 04.285.109/0001-73, identificado como contribuinte substituído, do produto indicado no Quadro"A", a ser utilizado na industrialização do produto indicado no Quadro "B".
+
+Art. 1º
+
+<table>  	<colgroup>  		<col>  	</colgroup>  	<colgroup>  		<col>  		<col>  	</colgroup>  	<colgroup>  		<col>  	</colgroup>  	<colgroup>  		<col>  		<col>  	</colgroup>  	<tr>  		<td colspan="6">  			<p>Quadro  			"A" - Produto a ser adquirido com suspensão do  			IPI do contribuinte substituído:</p>  		</td>  	</tr>  	<tr>  		<td colspan="2">  			<p>Descrição  			do Produto:</p>  		</td>  		<td colspan="3">  			<p>Código  			TIPI</p>  		</td>  		<td>  			<p>Alíquota</p>  		</td>  	</tr>  	<tr>  		<td colspan="2">  			<p>Poli  			(tereftalato de etileno) - Resina PET PCR</p>  		</td>  		<td colspan="3">  			<p>3907.61.00</p>  		</td>  		<td>  			<p>5%</p>  		</td>  	</tr>  	<tr>  		<td colspan="2">  			<p><br>   			</p>  		</td>  		<td colspan="3">  			<p><br>   			</p>  		</td>  		<td>  			<p><br>   			</p>  		</td>  	</tr>  	<tr>  		<td colspan="6">  			<p>Quadro  			"B" - Produto a ser fabricado pelo contribuinte  			substituto:</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Descrição  			do Produto:</p>  		</td>  		<td colspan="2">  			<p>Finalidade</p>  		</td>  		<td>  			<p>Código  			TIPI</p>  		</td>  		<td colspan="2">  			<p>Alíquota</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Preforma  			sem rosca</p>  		</td>  		<td colspan="2">  			<p>Industrialização</p>  		</td>  		<td>  			<p>3923.30.00</p>  		</td>  		<td colspan="2">  			<p>15%</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Preforma  			com rosca</p>  		</td>  		<td colspan="2">  			<p>Industrialização</p>  		</td>  		<td>  			<p>3923.30.00/Ex  			01</p>  		</td>  		<td colspan="2">  			<p>0%</p>  		</td>  	</tr>  </table>
+
+**§1º** Este Regime Especial será exercido sob os termos e condições estabelecidos no Parecer nº 2021-002 - SRRF07/Difis, de 19 de fevereiro de 2021, a seguir explicitados:
+
+a) Os produtos recebidos pelo contribuinte substituto, com suspensão de IPI, não poderão ter outra destinação que não seja a prevista no presente regime.
+
+b) Caso os mesmos sejam furtados ou roubados, inutilizados ou deteriorados ou, ainda, objeto de qualquer caso fortuito que impossibilite seu uso no processo produtivo, o contribuinte substituto ficará responsável pelo pagamento do imposto suspenso.
+
+c) Na Nota Fiscal dos produtos saídos do contribuinte substituído deverá constar a expressão: "Saída com suspensão do IPI - ADE nº 2 de 23/02/2021, DOU de xx/xx/2021".
+
+d) Fica vedado o destaque do valor do imposto suspenso, devendo este constar da Nota Fiscal apenas no campo "Informações Complementares".
+
+e) O valor do IPI suspenso não poderá ser utilizado como crédito do imposto.
+
+f) Os estabelecimentos interessados (substituto e substituído) não estão dispensados das demais obrigações tributárias, devendo manter-se regular em termos fiscais.
+
+g) O Regime Especial objeto deste Ato Declaratório não convalida a classificação fiscal, bem como a correspondente alíquota, dos produtos citados no Termo de Compromisso assumido pelos interessados e constante do processo administrativo-fiscal nº 13746.720332/2019-51.
+
+h) Não se aplica ao IPI devido no desembaraço aduaneiro de produtos de procedência estrangeira o Regime Especial de Substituição Tributária ora concedido.
+
+**Art.2º** Cessarão imediatamente os efeitos deste Ato Declaratório Executivo, independentemente de qualquer notificação do Fisco, na hipótese de superveniência de norma legal conflitante com as disposições estabelecidas pelo presente Regime Especial.
+
+**Art.3º** O presente regime terá validade por tempo indeterminado, podendo ser, a qualquer tempo: alterado, a pedido ou de ofício; cancelado a pedido; ou, ainda, cassado, caso ocorra alguma das hipóteses previstas no art. 10 da IN RFB nº 1.081/2010.
+
+**Art.4°** Este Ato Declaratório entra em vigor na data de sua publicação no Diário Oficial da União.
+
+FLÁVIO JOSÉ PASSOS COELHO

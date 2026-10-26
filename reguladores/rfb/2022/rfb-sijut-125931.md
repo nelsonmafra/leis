@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo Cosit nº 70, de 1º de setembro de 2022"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Ato Declaratório Executivo"
+numero: "70"
+data: "2022-09-01"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 08/09/2022, seção 1, página 15"
+data_publicacao: "2022-09-08"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/125931/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/125931/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "125931"
+sha256_texto: "de65e41dde15c4abc5f77a1c2e723d52fa830528f3779088dc42b52fc7b55c1f"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo Cosit nº 70, de 1º de setembro de 2022
+
+Enquadra veículo em "Ex" da TIPI
+
+A COORDENADORA-GERAL DE TRIBUTAÇÃO, no uso da atribuição que lhe confere o inciso II do art. 334 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, tendo em vista o disposto na Nota Complementar NC (87-1) da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI), aprovada pelo Decreto nº 11.158, de 29 de julho de 2022, e na Instrução Normativa nº 929, de 25 de março de 2009, alterada pela Instrução Normativa nº 1.734, de 01 de setembro de 2017, e ainda o que consta do processo nº 13113.232165/2022-37, declara:
+
+**Art. 1º** O veículo relacionado no Anexo Único a este Ato Declaratório Executivo cumpre as exigências para enquadramento no Ex 02 do código 8702.40.90 da TIPI.
+
+**Art. 2º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+CLÁUDIA LÚCIA PIMENTEL MARTINS DA SILVA
+
+## ANEXO
+
+## Anexo
+
+<table>  	<col>  	<tr>  		<td>  			<p>Nome do veículo: HIGER AZURE A18 BR</p>  			<p>Modelo/Versão: AZURE A18 BR</p>  			<p>Tipo de ignição: Motor  			elétrico/Fonte interna (bateria)</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Potência: 200 KWH (270 CV)</p>  			<p>Volume interno do habitáculo = 92.740  			dm³</p>  			<p>Marca: HIGER</p>  			<p>Fabricante: HIGER BUS COMPANY LIMITED</p>  			<p>Ano/modelo: 2022/2022</p>  		</td>  	</tr>  </table>

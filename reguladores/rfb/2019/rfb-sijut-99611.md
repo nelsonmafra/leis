@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo ALF/STS nº 9, de 25 de março de 2019"
+orgao: "Alfândega da Receita Federal do Brasil no Porto de Santos"
+tipo: "Ato Declaratório Executivo"
+numero: "9"
+data: "2019-03-25"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/03/2019, seção 1, página 65"
+data_publicacao: "2019-03-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/99611/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/99611/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "99611"
+sha256_texto: "1ff7bbfb8c93a362f1133b39352ba5d455c8171e7b368b0038693fb6ea17eb1f"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo ALF/STS nº 9, de 25 de março de 2019
+
+Dispõe sobre o Registro de Despachantes Aduaneiros e de Ajudantes de Despachantes Aduaneiros.
+
+O DELEGADO ADJUNTO DA ALFÂNDEGA DA RECEITA FEDERAL DO BRASIL DO PORTO DE SANTOS, no uso da competência que lhe é delegada através da Portaria ALF/STS nº 180, de 27 de dezembro de 2017, alterada através da Portaria ALF/STS nº 73, de 28 de fevereiro de 2019, e atribuída pelo §3º do art. 810 do Decreto nº 6.759, de 5 de fevereiro de 2009, com a redação dada pelo Decreto nº 7.213, de 15 de junho de 2010,
+
+DECLARA:
+
+**Art. 1º** Canceladas, no Registro de Despachantes Aduaneiros, as seguintes inscrições, por motivo de falecimento:
+
+a
+
+<table>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>DESPACHANTE</p>  		</td>  		<td>  			<p>CPF</p>  		</td>  		<td>  			<p>Número  			do Processo</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ACCACIO  			DIAS PITTA</p>  		</td>  		<td>  			<p>038.767.998-72</p>  		</td>  		<td>  			<p>11128.720751/2019-44</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADALBERTO  			CELESTINO DA SILVA JUNIOR</p>  		</td>  		<td>  			<p>256.632.778-54</p>  		</td>  		<td>  			<p>11128.720760/2019-35</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADILSON  			DOS SANTOS PAES</p>  		</td>  		<td>  			<p>033.714.158-48</p>  		</td>  		<td>  			<p>11128.720750/2019-08</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ALFREDO  			DIEGUES JUNIOR</p>  		</td>  		<td>  			<p>729.544.008-97</p>  		</td>  		<td>  			<p>11128.720764/2019-13</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ALVARO  			DOS SANTOS PEREIRA</p>  		</td>  		<td>  			<p>072.741.908-06</p>  		</td>  		<td>  			<p>11128.720754/2019-88</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ANTONIO  			CARLOS FERNANDES LEAL</p>  		</td>  		<td>  			<p>017.253.358-91</p>  		</td>  		<td>  			<p>11128.720742/2019-53</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>APARECIDA  			DE LOURDES ALVES</p>  		</td>  		<td>  			<p>121.497.708-14</p>  		</td>  		<td>  			<p>11128.720756/2019-77</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CARLOS  			SOUTO GOMES</p>  		</td>  		<td>  			<p>017.262.508-49</p>  		</td>  		<td>  			<p>11128.720743/2019-06</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>DIEGO  			PAVAO FUSCHINI</p>  		</td>  		<td>  			<p>280.899.948-81</p>  		</td>  		<td>  			<p>11128.720761/2019-80</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ERONIDES  			CRUZ RODRIGUES</p>  		</td>  		<td>  			<p>002.458.248-47</p>  		</td>  		<td>  			<p>11128.720739/2019-30</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EVALDO  			COSCIA</p>  		</td>  		<td>  			<p>730.378.858-15</p>  		</td>  		<td>  			<p>11128.720765/2019-68</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EZIO  			MARTINS CARLOS MENDES</p>  		</td>  		<td>  			<p>088.723.678-24</p>  		</td>  		<td>  			<p>11128.720755/2019-22</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>GUILHERME  			SIMOES FILHO</p>  		</td>  		<td>  			<p>024.377.248-34</p>  		</td>  		<td>  			<p>11128.720749/2019-75</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>JEFFERSON  			DE CARVALHO JACQUES</p>  		</td>  		<td>  			<p>875.255.268-34</p>  		</td>  		<td>  			<p>11128.720770/2019-71</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>JORGE  			FRANCISCO DA SILVA</p>  		</td>  		<td>  			<p>012.140.238-00</p>  		</td>  		<td>  			<p>11128.720740/2019-64</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>JORGE  			LUIZ GONCALVES</p>  		</td>  		<td>  			<p>575.926.758-20</p>  		</td>  		<td>  			<p>11128.720762/2019-24</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>JOSE  			AMARAL QUINTELA JUNIOR</p>  		</td>  		<td>  			<p>017.458.598-53</p>  		</td>  		<td>  			<p>11128.720745/2019-97</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>JOSE  			EDUARDO LOPES</p>  		</td>  		<td>  			<p>247.359.048-67</p>  		</td>  		<td>  			<p>11128.720758/2019-66</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>JOSE  			ROBERTO LOPES</p>  		</td>  		<td>  			<p>017.895.668-60</p>  		</td>  		<td>  			<p>11128.720746/2019-31</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>LUIZ  			CARLOS BARROS</p>  		</td>  		<td>  			<p>021.692.848-69</p>  		</td>  		<td>  			<p>11128.720748/2019-21</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>LUIZ  			CARLOS CAMARGO BALLIO</p>  		</td>  		<td>  			<p>016.992.378-91</p>  		</td>  		<td>  			<p>11128.720772/2019-60</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>LUIZ  			GERALDO MENDES NUNES FILHO</p>  		</td>  		<td>  			<p>733.700.028-68</p>  		</td>  		<td>  			<p>11128.720767/2019-57</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>MARCO  			AURELIO VASCONCELLOS DE SA E SOUZA</p>  		</td>  		<td>  			<p>040.683.108-40</p>  		</td>  		<td>  			<p>11128.720752/2019-99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>MARCOS  			SOTELO</p>  		</td>  		<td>  			<p>018.178.838-10</p>  		</td>  		<td>  			<p>11128.720747/2019-86</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>MARCUS  			VINICIUS DOS SANTOS VIDAL</p>  		</td>  		<td>  			<p>256.034.718-08</p>  		</td>  		<td>  			<p>11128.720759/2019-19</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>OTAVIO  			BOTELHO MEDEIROS</p>  		</td>  		<td>  			<p>017.317.508-20</p>  		</td>  		<td>  			<p>11128.720744/2019-42</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ROBERTO  			AMORIM DE ALMEIDA</p>  		</td>  		<td>  			<p>933.189.527-53</p>  		</td>  		<td>  			<p>11128.720771/2019-15</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ROBIN  			PEDRO SERTEK</p>  		</td>  		<td>  			<p>140.391.508-30</p>  		</td>  		<td>  			<p>11128.720757/2019-11</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>RUBENS  			JORGE FIGUEIREDO</p>  		</td>  		<td>  			<p>781.960.518-91</p>  		</td>  		<td>  			<p>11128.720769/2019-46</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>SERGIO  			DO ESPIRITO SANTO</p>  		</td>  		<td>  			<p>730.796.268-34</p>  		</td>  		<td>  			<p>11128.720766/2019-11</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>UMBERTO  			RODRIGUES FEIO</p>  		</td>  		<td>  			<p>072.490.718-15</p>  		</td>  		<td>  			<p>11128.720753/2019-33</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>VIRGILIO  			GONCALVES PINA FILHO</p>  		</td>  		<td>  			<p>595.319.328-91</p>  		</td>  		<td>  			<p>11128.720763/2019-79</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>WAGNER  			JOSE DE OLIVEIRA</p>  		</td>  		<td>  			<p>754.401.998-53</p>  		</td>  		<td>  			<p>11128.720768/2019-00</p>  		</td>  	</tr>  </table>
+
+**Art. 2º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+REINALDO AUGUSTO ANGELINI

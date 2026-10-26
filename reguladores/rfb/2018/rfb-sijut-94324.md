@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo Cofis nº 59, de 22 de agosto de 2018"
+orgao: "Coordenação-Geral de Fiscalização"
+tipo: "Ato Declaratório Executivo"
+numero: "59"
+data: "2018-08-22"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 23/08/2018, seção 1, página 32"
+data_publicacao: "2018-08-23"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/94324/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/94324/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "94324"
+sha256_texto: "267832b1b011a113c444e6afeaebfb71f1a8524812fc20d677857225d0111af4"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo Cofis nº 59, de 22 de agosto de 2018
+
+Autoriza fornecimento de selos de controle para importação de cigarros ao estabelecimento da empresa JTI Processadora de Tabaco do Brasil Ltda., CNPJ nº 03.334.170/0001-09.
+
+O COORDENADOR-GERAL DE FISCALIZAÇÃO, no uso da atribuição que lhe confere o art. 51, inciso I, da Instrução Normativa RFB nº 770, de 21 de agosto de 2007, e tendo em vista o que consta do Processo nº 10030.000717/0818-90, declara:
+
+**Art. 1º** Fica o estabelecimento da empresa JTI Processadora de Tabaco do Brasil Ltda., CNPJ nº 03.334.170/0001-09, autorizado a importar cigarros de acordo com as especificações descritas abaixo.
+
+a
+
+<table>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>1)  			País de Origem</p>  		</td>  		<td colspan="2">  			<p>Alemanha</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>2)  			Marca Comercial</p>  		</td>  		<td>  			<p>3)  			Preço de Venda a Varejo</p>  		</td>  		<td>  			<p>4)  			Quantidade autorizada de vintenas</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>WINSTON  			BLUE INTERNATIONAL</p>  		</td>  		<td>  			<p>R$  			5,25 / vintena</p>  		</td>  		<td>  			<p>2.650.000</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>WINSTON  			CLASSIC INTERNATIONAL</p>  		</td>  		<td>  			<p>R$  			5,25 / vintena</p>  		</td>  		<td>  			<p>1.358.000</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>WINSTON  			PURPLE MINT</p>  		</td>  		<td>  			<p>R$  			5,25 / vintena</p>  		</td>  		<td>  			<p>871.000</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>WINSTON  			EXOTIC MINT</p>  		</td>  		<td>  			<p>R$  			5,25 / vintena</p>  		</td>  		<td>  			<p>431.000</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>5)  			Cigarro</p>  		</td>  		<td colspan="2">  			<p>King  			Size 84mm</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>6)  			Embalagem</p>  		</td>  		<td colspan="2">  			<p>Box</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>7)  			Valor Taxa Art. 13 Lei nº  			12.995/2014 – Cor dos Selos de Controle</p>  		</td>  		<td colspan="2">  			<p>R$  			0,01 / vintena – Selo Vermelho</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>8)  			Unidade da RFB para recebimento dos selos de controle</p>  		</td>  		<td colspan="2">  			<p>Delegacia  			da Receita Federal do Brasil em Santa Cruz do Sul/RS</p>  		</td>  	</tr>  </table>
+
+**Art. 2º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+FLÁVIO VILELA CAMPOS

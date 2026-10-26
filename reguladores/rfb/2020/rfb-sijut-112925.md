@@ -1,0 +1,50 @@
+---
+titulo: "Ato Declaratório Executivo SRRF09 nº 229, de 30 de setembro de 2020"
+orgao: "Superintendência Regional da Receita Federal do Brasil 9ª Região Fiscal"
+tipo: "Ato Declaratório Executivo"
+numero: "229"
+data: "2020-09-30"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 06/10/2020, seção 1, página 15"
+data_publicacao: "2020-10-06"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/112925/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/112925/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "112925"
+sha256_texto: "1a6b527599923bc6da27ecc118771a71581aa01187ff8ac1fd28614538c0b93d"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo SRRF09 nº 229, de 30 de setembro de 2020
+
+Concede regime especial de substituição tributária do IPI.
+
+A SUPERINTENDENTE REGIONAL DA RECEITA FEDERAL DO BRASIL NA 9ª REGIÃO FISCAL, no uso das atribuições que lhe conferem os incisos I e VI do art. 359 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 3º da na Instrução Normativa RFB nº 1.081, de 4 de novembro de 2010, e o que consta no processo nº 13033.023185/2019-11, declara:
+
+**Art. 1º** Fica concedido o Regime Especial de Substituição Tributária do Imposto sobre Produtos Industrializados (IPI), de que trata a Instrução Normativa (IN) RFB nº 1.081/2010, sendo identificado na condição de SUBSTITUTO o estabelecimento da empresa ADAMA BRASIL S/A, CNPJ nº 02.290.510/0001-76, e na condição de SUBSTITUÍDO o estabelecimento da empresa STEPAN QUÍMICA LTDA, CNPJ nº 01.898.598/0002-21.
+
+**Art. 2º** Este regime aplica-se exclusivamente aos produtos abaixo relacionados, os quais serão remetidos com suspensão do IPI pelo SUBSTITUÍDO ao SUBSTITUTO:
+
+a
+
+<table>  	<col>  	<col>  	<tr>  		<td>  			<p>Descrição  			do Produto</p>  		</td>  		<td>  			<p>Código/TIPI</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>DODECILBENZENO  			SULFONATO DE CALCIO 70%</p>  		</td>  		<td>  			<p>3824.99.89</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>TRISTERIL  			FENOL ETOXILADO 16 E0</p>  		</td>  		<td>  			<p>3402.13.00</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>COMPOSTO  			ANIONICO/NAO IONICO</p>  		</td>  		<td>  			<p>3402.11.90</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>LAURIL  			ETER SULFATO DE SODIO</p>  		</td>  		<td>  			<p>3402.11.90</p>  		</td>  	</tr>  </table>
+
+**Art. 3º** Os produtos constantes do art. 2º serão recebidos pelo SUBSTITUTO com suspensão de IPI e utilizados para industrialização ou revenda, no caso de substituto equiparado a industrial, dos produtos a seguir relacionados:
+
+a
+
+<table>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>Descrição  			do Produto</p>  		</td>  		<td>  			<p>Finalidade</p>  		</td>  		<td>  			<p>Código/TIPI</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>DICOFOL  			EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.99.93</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>DIK  			185 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.99.93</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>TRICOFOL  			CE</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.99.93</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>BUMPER</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.97</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>BUMPER  			25 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.97</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CAPTAN  			200 FS</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CHAMBEL</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.97</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CRONNOS</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.93</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>MELANITE</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.97</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ORIUS  			6 FS</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ORIUS  			6%</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>SAVAGE</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>SAVAGE  			5 FS</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.92.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ACERT</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.29</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ATRANEX  			500 SC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.23</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ATRAZINAX  			500</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.23</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>COBRA</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.24</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>DEFERON</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.22</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>DORADO</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.29</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>GALIGAN  			240 CE</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.29</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>GALIGAN  			240 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.29</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>GALIGAN  			240 F</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.29</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>HERBITRIN  			500 BR</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.23</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>HERBURON  			500 BR</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.23</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>NAJA</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.24</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>NAJA  			240 CE</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.24</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PATROL  			SL</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.93.29</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CLORPIRIFOS  			480 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CURINGA</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>DISSULFAN  			EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.94</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ENDOSULFAN  			35</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.94</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ENDOSULFAN  			35 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.94</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ENDOSULFAN  			350 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.94</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ENDOSULFAN  			AG</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.94</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>NUFOS  			480 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PYRINEX  			480 CE</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PYRINEX  			480 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>SEIZER  			100 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>SUPRA  			THION 400 CE</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>SUPRA  			THION 400 EC</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>THIONEX  			350 CE</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.94</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>THIONEX-L</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.94</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>VORAZ</p>  		</td>  		<td>  			<p>INDUSTRIALIZAÇÃO</p>  		</td>  		<td>  			<p>3808.91.99</p>  		</td>  	</tr>  </table>
+
+**Art. 4º** Este Ato Declaratório Executivo não convalida a classificação fiscal dos produtos mencionados nos artigos 2º e 3º.
+
+**Art. 5º** Qualquer modificação na legislação tributária, que possa afetar o regime especial de que trata este Ato Declaratório Executivo, implicará, também, no que couber, sua alteração.
+
+**Art. 6º** O presente regime terá validade por tempo indeterminado, podendo ser, a qualquer tempo: alterado, a pedido ou de ofício; cancelado a pedido; ou, ainda, cassado, caso ocorra alguma das hipóteses previstas no art. 10 da IN RFB nº 1.081/2010.
+
+**Art. 7º** Na nota fiscal de saída do SUBSTITUÍDO deverá constar a expressão: "Saída com suspensão do IPI - ADE SRRF09 nº 229, de 30/09/2020", sendo vedado o destaque do imposto suspenso bem como a sua utilização como crédito.
+
+**Art. 8º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+CLÁUDIA REGINA LEÃO DO NASCIMENTO THOMAZ

@@ -1,0 +1,38 @@
+---
+titulo: "Ato Declaratório Executivo DRF/BHE nº 167, de 14 de novembro de 2023"
+orgao: "Delegacia da Receita Federal do Brasil em Belo Horizonte"
+tipo: "Ato Declaratório Executivo"
+numero: "167"
+data: "2023-11-14"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 20/11/2023, seção 1, página 60"
+data_publicacao: "2023-11-20"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/134812/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/134812/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "134812"
+sha256_texto: "0622e76c61d589bfcf07643c11c0523f0978ccebf49eecd53f2eef55e3556322"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo DRF/BHE nº 167, de 14 de novembro de 2023
+
+Aprova o fornecimento de selos de controle, para selagem no exterior, de Uísque.
+
+O DELEGADO DA DELEGACIA DA RECEITA FEDERAL DO BRASIL EM BELO HORIZONTE/MG, no exercício das atribuições regimentais definidas pelo artigo 364, inciso VI, do Regimento Interno da Secretaria da Receita Federal do Brasil do Ministério da Economia, aprovado pela Portaria Nº 284, de 27 de julho de 2020, publicada no Diário Oficial da União de 27 de julho de 2020, e, tendo em vista o disposto nos arts. 1º ao 3º e 49 a 51 da Instrução Normativa RFB nº 1.432, de 26 de dezembro de 2013, e de acordo com o Ato Declaratório Executivo (DRF/Belo Horizonte/MG) nº 73 de 06 de novembro de 2020, publicado no Diário Oficial de 11 de novembro de 2020, e conforme demais documentos integrantes dos Dossiês/Processos nºs 13031.213817/2020-82 e 13031.339880/2023-91, aprova:
+
+**Art. 1o** - O fornecimento de 217.800 (duzentos e dezessete mil e oitocentos) selos de controle, tipo bebida Uísque, cor amarela, à empresa COLUMBIA TRADING S/A, CNPJ nº 46.548.574/0018-48, localizada na Rua Serra do Rola Moça, nº 315 - galpão 09, bairro Distrito Industrial do Jatobá, CEP 30.668-271, cidade de Belo Horizonte, estado de Minas Gerais, inscrita no Registro Especial de Estabelecimento Importador sob o nº 06101/244, para selagem no exterior dos produtos abaixo relacionados, produzidos por BROWN - FORMAN BEVERAGES WORLDWIDE, P.O. BOX 1080 - LOUISVILLE, KY 40210-1080 - USA:
+
+Art. 1º
+
+<table>   <tr>    <td>    <p>ProFoma Invoice</p>    </td>    <td>    <p>P.O.</p>    </td>    <td>    <p>Marca Comercial</p>    </td>    <td>    <p>Característica do Produto</p>    </td>    <td>    <p>Caixas</p>    </td>    <td>    <p>Unidades</p>    </td>   </tr>   <tr>    <td>    <p>7741286</p>    </td>    <td>    <p>150</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741287</p>    </td>    <td>    <p>151</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741288</p>    </td>    <td>    <p>152</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741289</p>    </td>    <td>    <p>153</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741290</p>    </td>    <td>    <p>154</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741291</p>    </td>    <td>    <p>155</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741292</p>    </td>    <td>    <p>156</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741293</p>    </td>    <td>    <p>157</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741294</p>    </td>    <td>    <p>158</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741295</p>    </td>    <td>    <p>159</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>   <tr>    <td>    <p>7741297</p>    </td>    <td>    <p>160</p>    </td>    <td>    <p>JACK DANIEL'S</p>    </td>    <td>    <p>Em caixas de 06 garrafas de 700ml, 40% GL idade até 8 anos</p>    </td>    <td>    <p>3.300</p>    </td>    <td>    <p>19.800</p>    </td>   </tr>  </table>
+
+**Parágrafo único.** O estabelecimento interessado deverá cumprir as obrigações citadas na Instrução Normativa RFB nº 1.432, de 26 de dezembro de 2013, principalmente a de efetuar o pagamento dos selos e retirá-los na unidade da RFB de seu domicílio fiscal no prazo de 15 (quinze dias) a contar da data de publicação deste ADE, sob pena de ficar sem efeito a autorização para a importação.
+
+**Art. 2º** A empresa importadora terá o prazo de 180 (cento e oitenta) dias, contado da data do fornecimento do selo de controle, para efetuar o registro da declaração de importação.
+
+**Art. 3º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+FLÁVIO ANTÔNIO SOUZA ABREU

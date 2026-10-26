@@ -1,0 +1,40 @@
+---
+titulo: "Ato Declaratório Executivo DRF/SOR nº 83, de 11 de dezembro de 2019"
+orgao: "Delegacia da Receita Federal do Brasil em Sorocaba"
+tipo: "Ato Declaratório Executivo"
+numero: "83"
+data: "2019-12-11"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 13/12/2019, seção 1, página 72"
+data_publicacao: "2019-12-13"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/105491/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/105491/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "105491"
+sha256_texto: "65a9466479e6cadfb9134c95e17d778900b0a8bb5fdbfabd7b47da3520bf86f1"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo DRF/SOR nº 83, de 11 de dezembro de 2019
+
+Habilita a pessoa jurídica preponderantemente exportadora no regime de aquisição de matérias-primas, produtos intermediários e materiais de embalagem com suspensão de PIS/Pasep e Cofins.
+
+O AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL, considerando o disposto no art. 40 da Lei nº 10.865, de 30 de abril de 2004, nos arts. 541 a 552 da Instrução Normativa RFB nº 1.911, de 11 de outubro de 2019, na Portaria SRRF08 nº 436, de 12 de julho de 2019, na Portaria DRF Sorocaba nº 72, de 25 de setembro de 2019, e no processo administrativo nº 10100.000283/0818-57, declara:
+
+**Art. 1º** Habilitada no regime de aquisição de matérias-primas, produtos intermediários e materiais de embalagem com suspensão das Contribuições para o PIS/Pasep e Cofins, destinados à pessoa jurídica preponderantemente exportadora:
+
+a
+
+<table>  	<col>  	<col>  	<tr>  		<td>  			<p>Nome  			Empresarial:</p>  		</td>  		<td>  			<p>AMYRIS  			FERMENTAÇÃO DE PERFORMANCE LTDA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>30.832.226/0001-10</p>  		</td>  	</tr>  </table>
+
+**Art. 2º** A pessoa jurídica adquirente deve declarar ao vendedor, de forma expressa e sob as penas da lei, que atende a todos os requisitos estabelecidos na legislação, bem como indicar o número deste ADE, que lhe concedeu a habilitação ao regime.
+
+**Art. 3º** Nas notas fiscais relativas a venda à pessoa jurídica preponderantemente exportadora beneficiada com o regime de suspensão deverá constar a expressão "Saída com suspensão do pagamento da Contribuição para o PIS/Pasep e da Cofins, art. 40 da Lei 10.865/2004" e o número deste ADE.
+
+**Art. 4º** A pessoa jurídica habilitada ao regime deve manter plano de contas e respectivo modelo de lançamentos contábeis ajustados ao registro e controle dos estoques existentes, das aquisições e das vendas, discriminando quais as matérias-primas, os produtos intermediários e os materiais de embalagem foram adquiridos com ou sem o benefício do regime.
+
+**Art. 5º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+REINALDO DE PAIVA LOPES

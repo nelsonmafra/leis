@@ -1,0 +1,38 @@
+---
+titulo: "Ato Declaratório Executivo DRF/CBA nº 42, de 26 de julho de 2022"
+orgao: "Delegacia da Receita Federal do Brasil em Cuiabá"
+tipo: "Ato Declaratório Executivo"
+numero: "42"
+data: "2022-07-26"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/07/2022, seção 1, página 33"
+data_publicacao: "2022-07-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/125259/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/125259/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "125259"
+sha256_texto: "79280370b87a9f06badc60d3f12204d66254bd8296f7d7a46f762c8214910852"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo DRF/CBA nº 42, de 26 de julho de 2022
+
+Aplica a pena de perdimento à mercadoria objeto do processo que específica.
+
+A DELEGADA-ADJUNTA DA RECEITA FEDERAL DO BRASIL EM CUIABÁ-MT, no uso das atribuições que lhe confere o inciso I do artigo 360 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 105, V, do Decreto-Lei nº 37, de 18 de novembro de 1966, declara:
+
+**Art. 1º** Findo administrativamente o processo relacionado no Anexo Único.
+
+**Art. 2º** O perdimento da mercadoria objeto desse processo, tornando-a disponível para destinação na forma da legislação vigente.
+
+**Art. 3º** Este Ato declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+SIMONE CHIOSINI SANCHES
+
+ANEXO ÚNICO
+
+Anexo Único
+
+<table>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>SEQ.</p>  		</td>  		<td>  			<p>PROCESSO</p>  		</td>  		<td>  			<p>AUTO DE INFRAÇÃO  			E APREENSÃO</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>01</p>  		</td>  		<td>  			<p>14108.720273/2021-13</p>  		</td>  		<td>  			<p>0100100-110930/2021</p>  		</td>  	</tr>  </table>

@@ -1,0 +1,38 @@
+---
+titulo: "Ato Declaratório Executivo DRF/STM nº 4, de 25 de abril de 2019"
+orgao: "Delegacia da Receita Federal do Brasil em Santa Maria"
+tipo: "Ato Declaratório Executivo"
+numero: "4"
+data: "2019-04-25"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 26/04/2019, seção 1, página 40"
+data_publicacao: "2019-04-26"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/100445/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/100445/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "100445"
+sha256_texto: "e96e897baaca74f669ab4db0c8e96bdbb0057826a5d1188f04b123289e5a2ade"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo DRF/STM nº 4, de 25 de abril de 2019
+
+Concede o registro especial de engarrafador de bebidas alcoólicas.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM SANTA MARIA, no uso das atribuições que lhe conferem os incisos II e III do art. 340 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 3º da Instrução Normativa RFB nº 1.432, de 26 de dezembro de 2013 e considerando as informações constantes no processo administrativo nº 11060.721907/2019-36.
+
+DECLARA:
+
+**Art. 1º** Inscrito no Registro Especial de Bebidas, nº 10103/059, na atividade de engarrafador de bebida alcoólica, o estabelecimento da empresa INDÚSTRIA DE BEBIDAS RECANTO DO MAESTRO LTDA inscrito no CNPJ sob o nº 28.450.804/0001-01, situado na Estrada Recanto do Maestro, nº 880 na localidade Recanto do Maestro no município de Restinga Seca/RS, autorizando-o a adquirir selos de controle nos termos da IN RFB nº 1432/2013 e a engarrafar os produtos discriminados abaixo:
+
+a
+
+<table>  	<col>  	<col>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>Produto</p>  		</td>  		<td>  			<p>Marca  			Comercial</p>  		</td>  		<td>  			<p>NCM</p>  		</td>  		<td>  			<p>Capacidade  			Recipiente</p>  		</td>  		<td>  			<p>Tipo  			Recipiente</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Mangericão</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Limão Siciliano</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável   			</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Lima da Pérsia</p>  		</td>  		<td>  			<p>Valmar  			  			</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Laranja</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Hortelã</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Folhas de Figo</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Boldo</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Bergamota</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Licor  			Fino de Arruda</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Grapia Premium</p>  		</td>  		<td>  			<p>Valmar  			Grapia Premium</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Grapia Extra Premium</p>  		</td>  		<td>  			<p>Valmar  			Grapia Extra Premium</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Grapia Envelhecida</p>  		</td>  		<td>  			<p>Valmar  			Grapia</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Carvalho Extra Premium</p>  		</td>  		<td>  			<p>Valmar  			Carvalho Extra Premium</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Premium</p>  		</td>  		<td>  			<p>Valmar  			Premium</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			  			</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>500  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Carvalho Envelhecida</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Amburana Premium</p>  		</td>  		<td>  			<p>Valmar  			Amburana Premium</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Amburana Extra Premium</p>  		</td>  		<td>  			<p>Valmar  			Amburana Extra Premium</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Cachaça  			Ambaruna Envelhecida</p>  		</td>  		<td>  			<p>Valmar  			Ambaruna</p>  		</td>  		<td>  			<p>2208.40.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>Aguardente  			Composta de Arruda</p>  		</td>  		<td>  			<p>Valmar</p>  		</td>  		<td>  			<p>2208.90.00</p>  		</td>  		<td>  			<p>700  			ml</p>  		</td>  		<td>  			<p>Garrafa  			não retornável</p>  		</td>  	</tr>  </table>
+
+**Art. 2º** O estabelecimento inscrito fica obrigado ao cumprimento das determinações contidas na IN RFB nº 1432/2013 e alterações posteriores, bem como demais atos normativos que regem a matéria, sob pena de cancelamento do presente registro, além das demais sanções cabíveis.
+
+**Art. 3º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+ARAQUEM FERREIRA BRUM

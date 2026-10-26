@@ -1,0 +1,38 @@
+---
+titulo: "Ato Declaratório Executivo DRF/BHE nº 40, de 26 de junho de 2020"
+orgao: "Delegacia da Receita Federal do Brasil em Belo Horizonte"
+tipo: "Ato Declaratório Executivo"
+numero: "40"
+data: "2020-06-26"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 01/07/2020, seção 1, página 93"
+data_publicacao: "2020-07-01"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/110763/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/110763/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "110763"
+sha256_texto: "0b49f9d1eeba16c936b9276ba90ac4ebe1f89aa40901b3f7a324c5ce31b14cfc"
+baixado_em: "2026-10-26"
+---
+# Ato Declaratório Executivo DRF/BHE nº 40, de 26 de junho de 2020
+
+Atualiza produtos vinculados ao Registro Especial de Bebidas.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM BELO HORIZONTE, no uso das atribuições que lhe são conferidas pelo art. 340, inciso II e III, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 09 de outubro de 2017, publicada no Diário Oficial da União de 11 de outubro de 2017 e pelo art. 3º da Instrução Normativa RFB nº 1.432, de 26 de dezembro de 2013, declara:
+
+**Art. 1°.** O artigo 2º do Ato Declaratório Executivo nº 44, de 28 maio de 2019 publicado em 31/05/2019, referente ao Registro Especial de Bebidas nº 06101/228 de produtor; pertencente ao estabelecimento da empresa TAVERNA DE MINAS BEBIDAS ARTESANAIS LTDA, inscrita no CNPJ sob o nº 10.264.566/0001-84, passa a vigorar com a seguinte redação:
+
+"Art. 2°. O estabelecimento exerce a atividade de PRODUTOR dos produtos a seguir discriminados, conforme requerimento e demais informações constantes do Dossiê Digital de Atendimento nº 10100.003409/0419-75. "
+
+a
+
+<table>  	<col>  	<col>  	<col>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>NCM  			e EX</p>  		</td>  		<td>  			<p>Produto</p>  		</td>  		<td>  			<p>Marca</p>  		</td>  		<td>  			<p>Tipo  			Rec.</p>  		</td>  		<td>  			<p>Cap.  			Rec. (ml)</p>  		</td>  		<td>  			<p>Registro  			no MAPA</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>Caipirinha</p>  		</td>  		<td>  			<p>CAIPI  			TAVERNA BRASIL</p>  		</td>  		<td>  			<p>Não  			retornável</p>  		</td>  		<td>  			<table>  				<col>  				<tr>  					<td>  						<p>160</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>275</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>700</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>750</p>  					</td>  				</tr>  			</table>  		</td>  		<td>  			<p>MG  			000318-2.000009</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>Caipirinha</p>  		</td>  		<td>  			<p>CAIPI  			TAVERNA DE MINAS</p>  		</td>  		<td>  			<p>Não  			retornável</p>  		</td>  		<td>  			<table>  				<col>  				<tr>  					<td>  						<p>160</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>275</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>700</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>750</p>  					</td>  				</tr>  			</table>  		</td>  		<td>  			<p>MG  			000318-2.000010</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>Caipirinha</p>  		</td>  		<td>  			<p>TROPÍ</p>  		</td>  		<td>  			<p>Não  			retornável</p>  		</td>  		<td>  			<table>  				<col>  				<tr>  					<td>  						<p>160</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>750</p>  					</td>  				</tr>  			</table>  		</td>  		<td>  			<p>MG  			000318-2.000008</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>Bebida  			Mista</p>  		</td>  		<td>  			<p>JAMBRUNA</p>  		</td>  		<td>  			<p>Não  			retornável</p>  		</td>  		<td>  			<table>  				<col>  				<tr>  					<td>  						<p>50</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>375</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>750</p>  					</td>  				</tr>  			</table>  		</td>  		<td>  			<p>MG  			000318-2.000011</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>2208.70.00</p>  		</td>  		<td>  			<p>Bebida  			MistaLicor</p>  		</td>  		<td>  			<p>MIDDAS</p>  		</td>  		<td>  			<p>Não  			retornável</p>  		</td>  		<td>  			<p>700</p>  		</td>  		<td>  			<p>MG  			000318-2.000008</p>  		</td>  	</tr>  </table>
+
+**Art. 2°** - O estabelecimento acima identificado deverá cumprir as obrigações estabelecidas pela Instrução Normativa RFB nº 1.432, de 26 de dezembro de 2013 e suas alterações posteriores, bem como observar os demais atos legais e normativos, sob pena de ter este registro especial cancelado.
+
+**Art. 3°** - Este Ato Declaratório Executivo entra em vigor na data de sua publicação.
+
+MAURO LUIZ DE OLIVEIRA
