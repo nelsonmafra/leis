@@ -20,15 +20,15 @@
     },
     {
       "id": "cgsn",
-      "nome": "Simples Nacional: LC 123 e resoluções do CGSN",
-      "prioridade": 1,
+      "nome": "Simples Nacional: resoluções, portarias e recomendações do CGSN",
+      "prioridade": 0,
       "onde": "actions",
-      "status": "a_construir",
-      "comando": "",
+      "status": "pendente",
+      "comando": "python3 -I mafra/coletar_cgsn.py --rps 2",
       "pastas": [
-        "reguladores/cgsn"
+        "reguladores/rfb"
       ],
-      "motivo": "173 clientes no Simples. Lacuna total no acervo.",
+      "motivo": "173 clientes no Simples. 283 atos do CGSN no Sijut; o fork tinha 63.",
       "ultima_execucao": "2026-10-26 14:49",
       "ultimo_resultado": "código 0",
       "arquivos_ultima_execucao": 1,
