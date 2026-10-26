@@ -68,6 +68,7 @@ def rodar(tarefa, limite_seg, limite_itens):
     cauda = []
     esgotou = False
     ultimo_envio = time.time()
+    parcial = 0
     for linha in proc.stdout:
         print(linha, end="", flush=True)
         cauda = (cauda + [linha])[-60:]
@@ -76,7 +77,7 @@ def rodar(tarefa, limite_seg, limite_itens):
             try:
                 n = enviar(tarefa["pastas"], f"Coleta {tarefa['id']} (parcial) "
                                              f"{dt.datetime.now(FUSO):%Y-%m-%d %H:%M}")
-                tarefa["arquivos_acumulados"] = tarefa.get("arquivos_acumulados", 0) + n
+                parcial += n
                 print(f"--- parcial enviado: {n} arquivos", flush=True)
             except Exception as exc:
                 print("--- falha ao enviar parcial:", exc, flush=True)
@@ -91,7 +92,7 @@ def rodar(tarefa, limite_seg, limite_itens):
             break
     codigo = proc.wait()
     (LOGS / f"{tarefa['id']}.txt").write_text("".join(cauda), encoding="utf-8")
-    return codigo, esgotou, int(time.time() - inicio)
+    return codigo, esgotou, parcial
 
 
 def titulo(path):
@@ -170,7 +171,7 @@ def main():
         if restante < 600:
             print("orçamento de tempo esgotado; o restante fica para a próxima execução", flush=True)
             break
-        codigo, esgotou, segundos = rodar(tarefa, restante, args.limite)
+        codigo, esgotou, parcial = rodar(tarefa, restante, args.limite)
         quando = dt.datetime.now(FUSO).strftime("%Y-%m-%d %H:%M")
         n = enviar(tarefa["pastas"], f"Coleta {tarefa['id']} ({args.modo}) {quando}")
         # relê a fila já sincronizada com o remoto, para não sobrescrever mudanças feitas durante a execução
@@ -179,6 +180,7 @@ def main():
         tarefa = next(t for t in fila["tarefas"] if t["id"] == tarefa["id"])
         tarefa["ultima_execucao"] = quando
         tarefa["ultimo_resultado"] = "tempo esgotado (continua)" if esgotou else f"código {codigo}"
+        n += parcial
         tarefa["arquivos_ultima_execucao"] = n
         tarefa["arquivos_acumulados"] = tarefa.get("arquivos_acumulados", 0) + n
         if args.modo == "coleta" and not args.limite:
