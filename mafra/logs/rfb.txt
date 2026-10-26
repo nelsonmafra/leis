@@ -1,0 +1,60 @@
+skip 86803 {'ok': 13377, 'skip': 36974, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86802 {'ok': 13377, 'skip': 36975, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86801 {'ok': 13377, 'skip': 36976, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86800 {'ok': 13377, 'skip': 36977, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86799 visão original contém somente retificação; íntegra da norma exige revisão
+skip 86798 {'ok': 13377, 'skip': 36978, 'equivalente': 504, 'pendente_estrutura': 77}
+ok 86797 {'ok': 13378, 'skip': 36978, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86796 [Errno 2] No such file or directory: '/home/runner/work/leis/leis/scripts/bin/ocr'
+ok 86795 {'ok': 13379, 'skip': 36978, 'equivalente': 504, 'pendente_estrutura': 77}
+ok 86794 {'ok': 13380, 'skip': 36978, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86793 {'ok': 13380, 'skip': 36979, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86792 fonte não declara texto íntegro e público
+skip 86791 {'ok': 13380, 'skip': 36980, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86790 {'ok': 13380, 'skip': 36981, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86789 {'ok': 13380, 'skip': 36982, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86788 {'ok': 13380, 'skip': 36983, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86787 {'ok': 13380, 'skip': 36984, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86786 {'ok': 13380, 'skip': 36985, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86785 {'ok': 13380, 'skip': 36986, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86784 {'ok': 13380, 'skip': 36987, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86783 {'ok': 13380, 'skip': 36988, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86782 fonte não declara texto íntegro e público
+skip 86781 {'ok': 13380, 'skip': 36989, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86780 {'ok': 13380, 'skip': 36990, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86779 {'ok': 13380, 'skip': 36991, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86778 {'ok': 13380, 'skip': 36992, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86777 {'ok': 13380, 'skip': 36993, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86776 {'ok': 13380, 'skip': 36994, 'equivalente': 504, 'pendente_estrutura': 77}
+ok 86775 {'ok': 13381, 'skip': 36994, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86774 {'ok': 13381, 'skip': 36995, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86773 {'ok': 13381, 'skip': 36996, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86772 {'ok': 13381, 'skip': 36997, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86771 visão original contém somente retificação; íntegra da norma exige revisão
+skip 86770 {'ok': 13381, 'skip': 36998, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86769 {'ok': 13381, 'skip': 36999, 'equivalente': 504, 'pendente_estrutura': 77}
+ok 86768 {'ok': 13382, 'skip': 36999, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86767 fonte não declara texto íntegro e público
+skip 86766 {'ok': 13382, 'skip': 37000, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86764 {'ok': 13382, 'skip': 37001, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86763 fonte não declara texto íntegro e público
+skip 86762 {'ok': 13382, 'skip': 37002, 'equivalente': 504, 'pendente_estrutura': 77}
+ok 86761 {'ok': 13383, 'skip': 37002, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86760 {'ok': 13383, 'skip': 37003, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86759 {'ok': 13383, 'skip': 37004, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86758 {'ok': 13383, 'skip': 37005, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86757 {'ok': 13383, 'skip': 37006, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86756 {'ok': 13383, 'skip': 37007, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86755 {'ok': 13383, 'skip': 37008, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86754 {'ok': 13383, 'skip': 37009, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86753 {'ok': 13383, 'skip': 37010, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86752 {'ok': 13383, 'skip': 37011, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86751 {'ok': 13383, 'skip': 37012, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86750 {'ok': 13383, 'skip': 37013, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86749 visão original contém somente retificação; íntegra da norma exige revisão
+skip 86748 {'ok': 13383, 'skip': 37014, 'equivalente': 504, 'pendente_estrutura': 77}
+ok 86747 {'ok': 13384, 'skip': 37014, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86746 {'ok': 13384, 'skip': 37015, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86745 {'ok': 13384, 'skip': 37016, 'equivalente': 504, 'pendente_estrutura': 77}
+skip 86744 {'ok': 13384, 'skip': 37017, 'equivalente': 504, 'pendente_estrutura': 77}
+erro 86743 fonte não declara texto íntegro e público

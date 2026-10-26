@@ -6,28 +6,29 @@
       "nome": "Receita Federal: IN, ADI, soluções de consulta, portarias, pareceres",
       "prioridade": 1,
       "onde": "actions",
-      "status": "pendente",
+      "status": "em_andamento",
       "comando": "python3 -I scripts/baixar_rfb.py --rps 2 --ate {hoje}",
       "pastas": [
         "reguladores/rfb"
       ],
       "motivo": "Todos os regimes. Acervo herdado tem ~74 mil de ~116 mil atos.",
-      "ultima_execucao": "2026-10-25 15:10",
-      "ultimo_resultado": "código 1",
-      "arquivos_ultima_execucao": 29,
-      "arquivos_acumulados": 29
+      "ultima_execucao": "2026-10-26 14:47",
+      "ultimo_resultado": "tempo esgotado (continua)",
+      "arquivos_ultima_execucao": 13385,
+      "arquivos_acumulados": 13414,
+      "execucoes_sem_avanco": 0
     },
     {
       "id": "cgsn",
-      "nome": "Simples Nacional: resoluções, portarias e recomendações do CGSN",
-      "prioridade": 0,
+      "nome": "Simples Nacional: LC 123 e resoluções do CGSN",
+      "prioridade": 1,
       "onde": "actions",
-      "status": "pendente",
-      "comando": "python3 -I mafra/coletar_cgsn.py --rps 2",
+      "status": "a_construir",
+      "comando": "",
       "pastas": [
-        "reguladores/rfb"
+        "reguladores/cgsn"
       ],
-      "motivo": "173 clientes no Simples. 283 atos do CGSN no Sijut; o fork tinha 63."
+      "motivo": "173 clientes no Simples. Lacuna total no acervo."
     },
     {
       "id": "campinas",
