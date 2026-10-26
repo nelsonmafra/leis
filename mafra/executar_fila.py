@@ -173,6 +173,10 @@ def main():
         codigo, esgotou, segundos = rodar(tarefa, restante, args.limite)
         quando = dt.datetime.now(FUSO).strftime("%Y-%m-%d %H:%M")
         n = enviar(tarefa["pastas"], f"Coleta {tarefa['id']} ({args.modo}) {quando}")
+        # relê a fila já sincronizada com o remoto, para não sobrescrever mudanças feitas durante a execução
+        sh("git", "pull", "--rebase", "-q", "origin", "main", check=False)
+        fila = ler_fila()
+        tarefa = next(t for t in fila["tarefas"] if t["id"] == tarefa["id"])
         tarefa["ultima_execucao"] = quando
         tarefa["ultimo_resultado"] = "tempo esgotado (continua)" if esgotou else f"código {codigo}"
         tarefa["arquivos_ultima_execucao"] = n
