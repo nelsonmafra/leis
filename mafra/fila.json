@@ -28,7 +28,11 @@
       "pastas": [
         "reguladores/cgsn"
       ],
-      "motivo": "173 clientes no Simples. Lacuna total no acervo."
+      "motivo": "173 clientes no Simples. Lacuna total no acervo.",
+      "ultima_execucao": "2026-10-26 14:49",
+      "ultimo_resultado": "código 0",
+      "arquivos_ultima_execucao": 1,
+      "arquivos_acumulados": 1
     },
     {
       "id": "campinas",

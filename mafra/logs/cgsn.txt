@@ -1,0 +1,17 @@
+índice CGSN: 283/283
+ok 154194 {'ok': 1, 'skip': 0, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 153801 {'ok': 1, 'skip': 1, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 153340 {'ok': 1, 'skip': 2, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 152752 {'ok': 1, 'skip': 3, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 152805 {'ok': 1, 'skip': 4, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 152781 {'ok': 1, 'skip': 5, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 152832 {'ok': 1, 'skip': 6, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 150788 {'ok': 1, 'skip': 7, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 150756 {'ok': 1, 'skip': 8, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 150654 {'ok': 1, 'skip': 9, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 150653 {'ok': 1, 'skip': 10, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 150012 {'ok': 1, 'skip': 11, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 149833 {'ok': 1, 'skip': 12, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 149710 {'ok': 1, 'skip': 13, 'equivalente': 0, 'pendente_estrutura': 0}
+skip 147852 {'ok': 1, 'skip': 14, 'equivalente': 0, 'pendente_estrutura': 0}
+FIM CGSN {'ok': 1, 'skip': 14, 'equivalente': 0, 'pendente_estrutura': 0} erros 0 índice 283 / 283
